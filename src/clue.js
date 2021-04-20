@@ -98,4 +98,9 @@ const weaponsArray = [
 
 // ITERATION 2
 
+function selectRandom(randomArray) {
+   return Math.random [suspectsArray, weaponsArray, roomsArray]
+}
+
+
 // ITERATION 3
